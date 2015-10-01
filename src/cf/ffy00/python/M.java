@@ -12,7 +12,8 @@ import static org.bukkit.Bukkit.getPluginManager;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.python.core.PyException;
-import org.python.util.PythonInterpreter; 
+import org.python.util.PythonInterpreter;
+
 /**
  *
  * @author FFY00 <FFY00 at ffy00.cf>
@@ -23,10 +24,11 @@ public class M extends JavaPlugin {
     * DOCUMENTAÇÃO
     *
     * TODO
-    * - Tarefa...
+    * - Nada...
     *
     * LOG
     * - Main Criada...
+    * - Metodo jython() criado...
     */
     
     // Vars Config
@@ -78,7 +80,4 @@ public class M extends JavaPlugin {
         getLogger().log(Level.INFO, "Desativando {0} v{1} por FFY00 :(", new Object[]{pl.getName(), pl.getVersion()});
     }
     
-    // Plugin INCIO
-    
-    // Plugin FIM
 }
