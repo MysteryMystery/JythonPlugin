@@ -1,5 +1,5 @@
 # fPython
-###Python scripts interpreter  for Bukkit (Minecraft Server) !
+#####Python scripts interpreter  for Bukkit (Minecraft Server) !
 
 ##It's in DEVELOPMENT!
 
