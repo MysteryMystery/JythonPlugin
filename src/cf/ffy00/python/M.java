@@ -49,7 +49,7 @@ public class M extends JavaPlugin {
             PythonInterpreter j = new PythonInterpreter();
             for(int i = 0; i < scripts.length; i++){
                 if(scripts[i].getName().substring(scripts.length - 3).equalsIgnoreCase(".py")){
-                    
+                    j.execfile(scripts[i].getAbsolutePath());
                 } else {
                     if(!scripts[i].getName().equals("config.yml")){
                         getLogger().log(Level.WARNING, "Ficheiro {0} encontrado mas não foi carregado pois não tremina em .py ...", new Object[]{scripts[i].getName()});
