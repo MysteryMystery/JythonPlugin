@@ -1,9 +1,7 @@
 # fPython
-#####Python scripts interpreter  for Bukkit (Minecraft Server) !
+#####Python scripts interpreter  for Bukkit!
 
-
-####It's in DEVELOPMENT!
-
+#Retired Project
 
 ####Want to help?
 Add me on skype: vaangamer-gnc-killer-loko
