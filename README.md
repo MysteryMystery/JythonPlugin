@@ -1,4 +1,4 @@
-# fPython
+# JythonPlugin
 #####Python scripts interpreter  for Bukkit!
 
 ######Retired Project
