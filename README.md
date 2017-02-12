@@ -1,7 +1,5 @@
-# JythonPlugin
-#####Python scripts interpreter  for Bukkit!
+JythonPlugin
+==
+Python scripts interpreter  for Bukkit
 
-######Retired Project
-
-####Want to help?
-Add me on skype: vaangamer-gnc-killer-loko
+###### Not Maintained! Feel free to contribute...
